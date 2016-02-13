@@ -1,5 +1,7 @@
 # docker-compose-selenium-grid
 
+Taken from http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/
+
 cd /d/Sandbox/docker/selenium_base
 
 
