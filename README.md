@@ -23,3 +23,6 @@ docker-compose scale firefox=5
  
 docker-compose stop
 docker-compose rm
+
+##Git Cheat Sheet
+https://rogerdudler.github.io/git-guide/index.de.html
