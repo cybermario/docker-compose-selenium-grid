@@ -16,12 +16,14 @@ docker build -t selenium/firefox .
 
 
 docker-compose up -d
+
 docker-compose scale firefox=5
 
  http://<boot2docker_ip>:4444/grid/console
 
  
 docker-compose stop
+
 docker-compose rm
 
 ##Git Cheat Sheet
